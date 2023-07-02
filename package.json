@@ -1,0 +1,27 @@
+{
+    "name": "@softvisio/geoip-resources",
+    "version": "0.0.0",
+    "description": "Resources",
+    "keywords": [
+        "softvisio",
+        "resources"
+    ],
+    "homepage": "https://softvisio-node.github.io/resources/",
+    "bugs": {
+        "url": "https://github.com/softvisio-node/resources/issues",
+        "email": "zdm <zdm@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/softvisio-node/resources.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#lib/*": "./lib/*.js"
+    },
+    "exports": {
+        "./*": "./lib/*.js"
+    }
+}
