@@ -22,6 +22,7 @@
         "#lib/*": "./lib/*.js"
     },
     "exports": {
+        ".": "./lib/resources.js",
         "./*": "./lib/*.js"
     }
 }
