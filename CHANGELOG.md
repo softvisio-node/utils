@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.2 (2023-07-09)
+
+Fixes:
+
+-   fix: events
+
 ### 1.1.1 (2023-07-09)
 
 Fixes:
