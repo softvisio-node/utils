@@ -1,19 +1,19 @@
 {
-    "name": "@softvisio/resources",
+    "name": "@softvisio/external-resources",
     "version": "1.0.1",
-    "description": "Resources",
+    "description": "External resources",
     "keywords": [
         "softvisio",
         "resources"
     ],
-    "homepage": "https://softvisio-node.github.io/resources/",
+    "homepage": "https://softvisio-node.github.io/external-resources/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/resources/issues",
+        "url": "https://github.com/softvisio-node/external-resources/issues",
         "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio-node/resources.git"
+        "url": "https://github.com/softvisio-node/external-resources.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
@@ -22,7 +22,7 @@
         "#lib/*": "./lib/*.js"
     },
     "exports": {
-        ".": "./lib/resources.js",
+        ".": "./lib/external-resources.js",
         "./*": "./lib/*.js"
     },
     "dependencies": {
