@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.1 (2023-07-09)
+
+Fixes:
+
+-   fix: default location
+
 ### 1.1.0 (2023-07-09)
 
 Features:
