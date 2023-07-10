@@ -25,7 +25,7 @@
         ".": "./lib/external-resources.js",
         "./*": "./lib/*.js"
     },
-    "dependencies": {
+    "peerDependencies": {
         "@softvisio/result": "^6.1.1",
         "tar": "^6.1.15"
     }
