@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.5 (2023-07-11)
+
+Fixes:
+
+-   fix: duplicated resources add
+
 ### 1.1.4 (2023-07-10)
 
 Fixes:
