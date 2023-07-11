@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.7 (2023-07-11)
+
+Fixes:
+
+-   fix: string location
+
 ### 1.1.6 (2023-07-11)
 
 Fixes:
