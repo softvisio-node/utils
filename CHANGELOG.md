@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.11 (2023-07-12)
+
+Fixes:
+
+-   fix: update resource on add
+
 ### 1.1.10 (2023-07-11)
 
 Fixes:
