@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.12 (2023-07-12)
+
+Fixes:
+
+-   fix: resource check
+
 ### 1.1.11 (2023-07-12)
 
 Fixes:
