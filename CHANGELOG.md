@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.13 (2023-07-12)
+
+Fixes:
+
+-   fix: install to the top-level pachage
+
 ### 1.1.12 (2023-07-12)
 
 Fixes:
