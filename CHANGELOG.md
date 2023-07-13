@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.15 (2023-07-13)
+
+Fixes:
+
+-   fix: cache root
+
 ### 1.1.14 (2023-07-13)
 
 Fixes:
