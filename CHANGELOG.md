@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.18 (2023-07-13)
+
+Fixes:
+
+-   fix: resources location
+
 ### 1.1.17 (2023-07-13)
 
 Fixes:
