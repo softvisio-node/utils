@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.20 (2023-07-13)
+
+Fixes:
+
+-   fix: updater
+
 ### 1.1.19 (2023-07-13)
 
 Fixes:
