@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.22 (2023-07-14)
+
+Fixes:
+
+-   fix: location detection
+
 ### 1.1.21 (2023-07-14)
 
 Fixes:
