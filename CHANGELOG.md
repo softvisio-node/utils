@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.21 (2023-07-14)
+
+Fixes:
+
+-   fix: location
+
 ### 1.1.20 (2023-07-13)
 
 Fixes:
