@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.25 (2023-07-16)
+
+Fixes:
+
+-   fix: npm files
+
 ### 1.1.24 (2023-07-14)
 
 Fixes:
