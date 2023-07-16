@@ -1,19 +1,19 @@
 {
-    "name": "@softvisio/external-resources",
+    "name": "@softvisio/utils",
     "version": "1.1.25",
     "description": "External resources",
     "keywords": [
         "softvisio",
         "resources"
     ],
-    "homepage": "https://softvisio-node.github.io/external-resources/",
+    "homepage": "https://softvisio-node.github.io/utils/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/external-resources/issues",
+        "url": "https://github.com/softvisio-node/utils/issues",
         "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio-node/external-resources.git"
+        "url": "https://github.com/softvisio-node/utils.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
@@ -22,7 +22,6 @@
         "#lib/*": "./lib/*.js"
     },
     "exports": {
-        ".": "./lib/external-resources.js",
         "./*": "./lib/*.js"
     },
     "files": [

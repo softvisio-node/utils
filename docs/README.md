@@ -5,7 +5,7 @@
 ## Install
 
 ```shell
-npm i @softvisio/external-resources
+npm i @softvisio/utils
 ```
 
 ## Usage
