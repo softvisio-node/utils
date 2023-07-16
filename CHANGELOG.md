@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.31 (2023-07-16)
+
+Fixes:
+
+-   fix: resource update log
+
 ### 1.1.30 (2023-07-16)
 
 Fixes:
