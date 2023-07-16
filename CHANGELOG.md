@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.29 (2023-07-16)
+
+Fixes:
+
+-   fix: imports
+
 ### 1.1.28 (2023-07-16)
 
 Fixes:
