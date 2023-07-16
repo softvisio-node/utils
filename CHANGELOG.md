@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.30 (2023-07-16)
+
+Fixes:
+
+-   fix: ported to esm
+
 ### 1.1.29 (2023-07-16)
 
 Fixes:
