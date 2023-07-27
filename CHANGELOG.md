@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.35 (2023-07-27)
+
+Fixes:
+
+-   fix: remote resources
+
 ### 1.1.34 (2023-07-18)
 
 Fixes:
