@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.38 (2023-07-27)
+
+Fixes:
+
+-   fix: resources index
+
 ### 1.1.37 (2023-07-27)
 
 Fixes:
