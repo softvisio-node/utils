@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.41 (2023-08-19)
+
+Fixes:
+
+-   fix: resource tag compare
+
 ### 1.1.40 (2023-08-03)
 
 Fixes:
