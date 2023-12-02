@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.1.43 (2023-12-02)
+
+Fixes:
+
+-   fix: external resource etag
+
 ### 1.1.42 (2023-10-20)
 
 Fixes:
