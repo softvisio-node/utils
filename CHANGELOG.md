@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.0 (2024-02-21)
+
+Features:
+
+-   feat: require
+
 ### 1.1.52 (2024-01-27)
 
 Fixes:
