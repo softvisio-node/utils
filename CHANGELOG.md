@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.7 (2024-06-22)
+
+Fixes:
+
+-   fix: add externam res props
+
 ### 1.2.6 (2024-05-29)
 
 Fixes:
