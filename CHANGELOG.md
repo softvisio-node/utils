@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.8 (2024-07-04)
+
+Fixes:
+
+-   fix: options deconstructor
+
 ### 1.2.7 (2024-06-22)
 
 Fixes:
