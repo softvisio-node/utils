@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.10 (2024-07-26)
+
+Fixes:
+
+-   fix: catch fetch errors
+
 ### 1.2.9 (2024-07-22)
 
 Fixes:
