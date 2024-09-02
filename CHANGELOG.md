@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.14 (2024-09-02)
+
+Fixes:
+
+-   fix: docs config
+
 ### 1.2.13 (2024-08-14)
 
 No notable changes since the previous release.
