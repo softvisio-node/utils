@@ -1,5 +1,9 @@
 # Changelog
 
+### 1.2.16 (2024-09-11)
+
+No notable changes since the previous release.
+
 ### 1.2.15 (2024-09-07)
 
 Fixes:
