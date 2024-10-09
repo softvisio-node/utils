@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.2.19 (2024-10-09)
+
+Fixes:
+
+-   fix: external resource index sort
+
 ### 1.2.18 (2024-10-09)
 
 Fixes:
