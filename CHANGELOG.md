@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.2.18 (2024-10-09)
+
+Fixes:
+
+-   fix: dependabot
+-   fix: remote resources
+
 ### 1.2.17 (2024-09-13)
 
 No notable changes since the previous release.
