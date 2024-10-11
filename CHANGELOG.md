@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2.20 (2024-10-11)
+
+Fixes:
+
+-   fix: external resources log
+
+[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.19...v1.2.20)
+
 ### 1.2.19 (2024-10-09)
 
 Fixes:
