@@ -1,13 +1,9 @@
 # Introduction
 
-<!-- Tell about the project -->
+Utility modules.
 
 ## Install
 
 ```shell
-npm i @softvisio/utils
+npm install @softvisio/utils
 ```
-
-## Usage
-
-<!-- Tell about how to use the project, give code examples -->
