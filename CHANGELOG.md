@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2.22 (2024-10-11)
+
+Fixes:
+
+-   fix: remote update status
+
+[Full list of the changes](https://github.com/softvisio-node/utils/compare/v1.2.21...v1.2.22)
+
 ### 1.2.21 (2024-10-11)
 
 Fixes:
