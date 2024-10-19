@@ -30,9 +30,6 @@
         "/resources",
         "/src"
     ],
-    "scripts": {
-        "release": "softvisio-cli package release"
-    },
     "peerDependencies": {
         "@softvisio/result": "^6.1.1",
         "tar": "^7.0.0"
