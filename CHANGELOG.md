@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2.25 (2024-10-29)
+
+Other changes:
+
+-   chore: update docs
+
+[Compare with the previous release: v1.2.24 ... v1.2.25](https://github.com/softvisio-node/utils/compare/v1.2.24...v1.2.25)
+
 ### 1.2.24 (2024-10-20)
 
 No notable changes since the previous release.
