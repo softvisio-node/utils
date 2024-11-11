@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2.29 (2024-11-11)
+
+Other changes:
+
+-   chore: check remote if resource if expired
+
+[Compare with the previous release: v1.2.28 ... v1.2.29](https://github.com/softvisio-node/utils/compare/v1.2.28...v1.2.29)
+
 ### 1.2.28 (2024-11-11)
 
 Other changes:
