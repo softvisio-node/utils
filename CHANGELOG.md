@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.3.2 (2024-11-27)
+
+Other changes:
+
+- chore: update external resource index location
+
+[Compare with the previous release: v1.3.1 ... v1.3.2](https://github.com/softvisio-node/utils/compare/v1.3.1...v1.3.2)
+
 ### 1.3.1 (2024-11-27)
 
 No changes since the previous release.
