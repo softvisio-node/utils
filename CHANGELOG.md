@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.2.31 (2024-11-27)
+
+Other changes:
+
+- chore: update package metadata
+
+[Compare with the previous release: v1.2.30 ... v1.2.31](https://github.com/softvisio-node/utils/compare/v1.2.30...v1.2.31)
+
 ### 1.2.30 (2024-11-27)
 
 Other changes:
