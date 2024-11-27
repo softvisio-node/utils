@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.1 (2024-11-27)
+
+No changes since the previous release.
+
+[Compare with the previous release: v1.3.0 ... v1.3.1](https://github.com/softvisio-node/utils/compare/v1.3.0...v1.3.1)
+
 ### 1.3.0 (2024-11-27)
 
 Features:
