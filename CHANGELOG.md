@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.3.0 (2024-11-27)
+
+Features:
+
+- feat: separate external resources index
+
+[Compare with the previous release: v1.2.31 ... v1.3.0](https://github.com/softvisio-node/utils/compare/v1.2.31...v1.3.0)
+
 ### 1.2.31 (2024-11-27)
 
 Other changes:
