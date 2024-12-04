@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.4.0 (2024-12-04)
+
+Features:
+
+- feat: add resource getResourcePath()
+
+[Compare with the previous release: v1.3.2 ... v1.4.0](https://github.com/softvisio-node/utils/compare/v1.3.2...v1.4.0)
+
 ### 1.3.2 (2024-11-27)
 
 Other changes:
