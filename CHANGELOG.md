@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.4.2 (2024-12-04)
+
+No changes since the previous release.
+
+[Compare with the previous release: v1.4.1 ... v1.4.2](https://github.com/softvisio-node/utils/compare/v1.4.1...v1.4.2)
+
 ### 1.4.1 (2024-12-04)
 
 No changes since the previous release.
