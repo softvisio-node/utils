@@ -1,5 +1,17 @@
 # Changelog
 
+### 2.0.0 (2024-12-04)
+
+Breaking changes:
+
+- feat!: release major version
+
+[Compare with the previous release: v1.4.2 ... v2.0.0](https://github.com/softvisio-node/utils/compare/v1.4.2...v2.0.0)
+
+Migration notes:
+
+See the list of the breaking changes for details.
+
 ### 1.4.2 (2024-12-04)
 
 No changes since the previous release.
