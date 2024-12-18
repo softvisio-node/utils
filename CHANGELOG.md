@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.1.2 (2024-12-18)
+
+Other changes:
+
+- chore: update external resources timeouts
+
+[Compare with the previous release: v2.1.1 ... v2.1.2](https://github.com/softvisio-node/utils/compare/v2.1.1...v2.1.2)
+
 ### 2.1.1 (2024-12-18)
 
 Other changes:
