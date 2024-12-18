@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.1.0 (2024-12-18)
+
+Features:
+
+- feat: external resource check timeout
+
+[Compare with the previous release: v2.0.1 ... v2.1.0](https://github.com/softvisio-node/utils/compare/v2.0.1...v2.1.0)
+
 ### 2.0.1 (2024-12-07)
 
 Other changes:
