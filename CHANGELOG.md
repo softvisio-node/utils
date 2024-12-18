@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.1.1 (2024-12-18)
+
+Other changes:
+
+- chore: fix property accessor
+
+[Compare with the previous release: v2.1.0 ... v2.1.1](https://github.com/softvisio-node/utils/compare/v2.1.0...v2.1.1)
+
 ### 2.1.0 (2024-12-18)
 
 Features:
