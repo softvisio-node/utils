@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.2.0 (2024-12-30)
+
+Features:
+
+- feat: add external resource autoUpdate option
+
+[Compare with the previous release: v2.1.2 ... v2.2.0](https://github.com/softvisio-node/utils/compare/v2.1.2...v2.2.0)
+
 ### 2.1.2 (2024-12-18)
 
 Other changes:
