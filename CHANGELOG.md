@@ -1,5 +1,14 @@
 # Changelog
 
+### 2.3.0 (2025-01-06)
+
+Features:
+
+- feat: add env
+- feat: add external resource location option
+
+[Compare with the previous release: v2.2.0 ... v2.3.0](https://github.com/softvisio-node/utils/compare/v2.2.0...v2.3.0)
+
 ### 2.2.0 (2024-12-30)
 
 Features:
