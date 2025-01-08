@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.4.2 (2025-01-08)
+
+Other changes:
+
+- chore: fix options destructire
+
+[Compare with the previous release: v2.4.1 ... v2.4.2](https://github.com/softvisio-node/utils/compare/v2.4.1...v2.4.2)
+
 ### 2.4.1 (2025-01-08)
 
 Other changes:
