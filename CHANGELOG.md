@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.4.0 (2025-01-08)
+
+Features:
+
+- feat: refactor external resources
+
+[Compare with the previous release: v2.3.0 ... v2.4.0](https://github.com/softvisio-node/utils/compare/v2.3.0...v2.4.0)
+
 ### 2.3.0 (2025-01-06)
 
 Features:
