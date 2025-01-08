@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.4.1 (2025-01-08)
+
+Other changes:
+
+- chore: remove external resource caller detection
+
+[Compare with the previous release: v2.4.0 ... v2.4.1](https://github.com/softvisio-node/utils/compare/v2.4.0...v2.4.1)
+
 ### 2.4.0 (2025-01-08)
 
 Features:
