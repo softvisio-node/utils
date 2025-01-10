@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.5.0 (2025-01-10)
+
+Features:
+
+- feat: add remote resource isInstalled property
+
+[Compare with the previous release: v2.4.3...v2.5.0](https://github.com/softvisio-node/utils/compare/v2.4.3...v2.5.0)
+
 ### 2.4.3 (2025-01-08)
 
 Other changes:
