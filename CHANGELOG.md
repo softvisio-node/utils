@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.5.1 (2025-01-10)
+
+Other changes:
+
+- chore: refactor resource read index
+
+[Compare with the previous release: v2.5.0...v2.5.1](https://github.com/softvisio-node/utils/compare/v2.5.0...v2.5.1)
+
 ### 2.5.0 (2025-01-10)
 
 Features:
