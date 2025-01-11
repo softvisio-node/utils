@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.1 (2025-01-11)
+
+Other changes:
+
+- chore: fix global resources location
+
+Compare with the previous release: [`v2.6.0...v2.6.1`](https://github.com/softvisio-node/utils/compare/v2.6.0...v2.6.1)
+
 ### 2.6.0 (2025-01-11)
 
 Features:
