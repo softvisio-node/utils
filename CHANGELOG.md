@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.2 (2025-01-17)
+
+Other changes:
+
+- chore: remove padding from update report
+
+Compare with the previous release: [`v2.6.1...v2.6.2`](https://github.com/softvisio-node/utils/compare/v2.6.1...v2.6.2)
+
 ### 2.6.1 (2025-01-11)
 
 Other changes:
