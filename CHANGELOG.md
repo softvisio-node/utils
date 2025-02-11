@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.4 (2025-02-11)
+
+Other changes:
+
+- chore: refactor ansi
+
+Compare with the previous release: [`v2.6.3...v2.6.4`](https://github.com/softvisio-node/utils/compare/v2.6.3...v2.6.4)
+
 ### 2.6.3 (2025-02-10)
 
 Other changes:
