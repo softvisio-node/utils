@@ -1,5 +1,14 @@
 # Changelog
 
+### 2.6.5 (2025-02-12)
+
+Other changes:
+
+- chore: fix callable proxy
+- chore: refactor ansi
+
+Compare with the previous release: [`v2.6.4...v2.6.5`](https://github.com/softvisio-node/utils/compare/v2.6.4...v2.6.5)
+
 ### 2.6.4 (2025-02-11)
 
 Other changes:
