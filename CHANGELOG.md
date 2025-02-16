@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.9 (2025-02-16)
+
+Other changes:
+
+- chore: refactor resources
+
+Compare with the previous release: [`v2.6.8...v2.6.9`](https://github.com/softvisio-node/utils/compare/v2.6.8...v2.6.9)
+
 ### 2.6.8 (2025-02-14)
 
 Other changes:
