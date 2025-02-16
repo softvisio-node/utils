@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.10 (2025-02-16)
+
+Fixes:
+
+- fix: code typo
+
+Compare with the previous release: [`v2.6.9...v2.6.10`](https://github.com/softvisio-node/utils/compare/v2.6.9...v2.6.10)
+
 ### 2.6.9 (2025-02-16)
 
 Other changes:
