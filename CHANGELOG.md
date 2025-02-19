@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.11 (2025-02-19)
+
+Other changes:
+
+- chore: update cli config
+
+Compare with the previous release: [`v2.6.10...v2.6.11`](https://github.com/softvisio-node/utils/compare/v2.6.10...v2.6.11)
+
 ### 2.6.10 (2025-02-16)
 
 Fixes:
