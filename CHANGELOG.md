@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.12 (2025-02-26)
+
+Other changes:
+
+- chore: update editorconfig
+
+Compare with the previous release: [`v2.6.11...v2.6.12`](https://github.com/softvisio-node/utils/compare/v2.6.11...v2.6.12)
+
 ### 2.6.11 (2025-02-19)
 
 Other changes:
