@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.14 (2025-03-01)
+
+Other changes:
+
+- chore: code cleanup
+
+Compare with the previous release: [`v2.6.13...v2.6.14`](https://github.com/softvisio-node/utils/compare/v2.6.13...v2.6.14)
+
 ### 2.6.13 (2025-02-27)
 
 Other changes:
