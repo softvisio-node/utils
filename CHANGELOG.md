@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.16 (2025-03-04)
+
+Other changes:
+
+- chore: update package metadata
+
+Compare with the previous release: [`v2.6.15...v2.6.16`](https://github.com/softvisio-node/utils/compare/v2.6.15...v2.6.16)
+
 ### 2.6.15 (2025-03-04)
 
 Other changes:
