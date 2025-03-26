@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.6.17 (2025-03-26)
+
+Other changes:
+
+- chore: update markdown code tags
+
+Compare with the previous release: [`v2.6.16...v2.6.17`](https://github.com/softvisio-node/utils/compare/v2.6.16...v2.6.17)
+
 ### 2.6.16 (2025-03-04)
 
 Other changes:
