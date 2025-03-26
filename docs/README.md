@@ -4,6 +4,6 @@ Utility modules.
 
 ## Install
 
-```shell
+```sh
 npm install @softvisio/utils
 ```
