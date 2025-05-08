@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.7.1 (2025-05-08)
+
+Other changes:
+
+- chore: update ansi url params
+
+Compare with the previous release: [`v2.7.0...v2.7.1`](https://github.com/softvisio-node/utils/compare/v2.7.0...v2.7.1)
+
 ### 2.7.0 (2025-05-08)
 
 Features:
