@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.7.2 (2025-05-08)
+
+Other changes:
+
+- chore: refactor ansi
+
+Compare with the previous release: [`v2.7.1...v2.7.2`](https://github.com/softvisio-node/utils/compare/v2.7.1...v2.7.2)
+
 ### 2.7.1 (2025-05-08)
 
 Other changes:
