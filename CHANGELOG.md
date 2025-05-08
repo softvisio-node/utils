@@ -1,5 +1,13 @@
 # Changelog
 
+### 2.7.0 (2025-05-08)
+
+Features:
+
+- feat: add ansi link
+
+Compare with the previous release: [`v2.6.17...v2.7.0`](https://github.com/softvisio-node/utils/compare/v2.6.17...v2.7.0)
+
 ### 2.6.17 (2025-03-26)
 
 Other changes:
