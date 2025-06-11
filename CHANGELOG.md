@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.7.5 (2025-06-11)
+
+**New features:**
+
+- \[MINOR] feat: rename ansi class (● 7a254fd; 👬 zdm)
+
+Compare with the previous release: [v2.7.4](https://github.com/softvisio-node/utils/compare/v2.7.4...v2.7.5)
+
 ### v2.7.4 (2025-06-07)
 
 **Other changes:**
