@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.7.6 (2025-07-07)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: replace stream pipe with pipeline (● [de1d1ad](https://github.com/softvisio-node/utils/commit/de1d1ad); 👬 zdm)
+
+Compare with the previous release: [v2.7.5](https://github.com/softvisio-node/utils/compare/v2.7.5...v2.7.6)
+
 ### v2.7.5 (2025-06-11)
 
 **New features:**
