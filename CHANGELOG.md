@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.7.7 (2025-07-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix pipeline (● [efad69f](https://github.com/softvisio-node/utils/commit/efad69f); 👬 zdm)
+
+Compare with the previous release: [v2.7.6](https://github.com/softvisio-node/utils/compare/v2.7.6...v2.7.7)
+
 ### v2.7.6 (2025-07-07)
 
 **Code refactoring:**
