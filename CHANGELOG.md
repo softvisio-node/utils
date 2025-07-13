@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.8.0 (2025-07-13)
+
+**New features:**
+
+- \[MINOR] feat: add more ansi styles (● [4275f65](https://github.com/softvisio-node/utils/commit/4275f65); 👬 zdm)
+
+Compare with the previous release: [v2.7.7](https://github.com/softvisio-node/utils/compare/v2.7.7...v2.8.0)
+
 ### v2.7.7 (2025-07-09)
 
 **Bug fixes:**
