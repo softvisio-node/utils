@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.8.1 (2025-07-13)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update ansi enable / disable methods (● [59c8d50](https://github.com/softvisio-node/utils/commit/59c8d50); 👬 zdm)
+
+Compare with the previous release: [v2.8.0](https://github.com/softvisio-node/utils/compare/v2.8.0...v2.8.1)
+
 ### v2.8.0 (2025-07-13)
 
 **New features:**
