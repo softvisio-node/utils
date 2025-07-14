@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.9.0 (2025-07-14)
+
+**New features:**
+
+- \[MINOR] feat: add ansi.enble() method (● [e27d211](https://github.com/softvisio-node/utils/commit/e27d211); 👬 zdm)
+
+Compare with the previous release: [v2.8.1](https://github.com/softvisio-node/utils/compare/v2.8.1...v2.9.0)
+
 ### v2.8.1 (2025-07-13)
 
 **Code refactoring:**
