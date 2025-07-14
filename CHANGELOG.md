@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.9.1 (2025-07-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor ansi (● [ec011ae](https://github.com/softvisio-node/utils/commit/ec011ae); 👬 zdm)
+
+Compare with the previous release: [v2.9.0](https://github.com/softvisio-node/utils/compare/v2.9.0...v2.9.1)
+
 ### v2.9.0 (2025-07-14)
 
 **New features:**
