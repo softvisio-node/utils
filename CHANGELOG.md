@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.9.3 (2025-07-16)
+
+**Other changes:**
+
+- style: lint (● [080fbc3](https://github.com/softvisio-node/utils/commit/080fbc3); 👬 zdm)
+
+Compare with the previous release: [v2.9.2](https://github.com/softvisio-node/utils/compare/v2.9.2...v2.9.3)
+
 ### v2.9.2 (2025-07-16)
 
 **Other changes:**
