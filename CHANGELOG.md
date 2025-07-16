@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.9.2 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [a880d83](https://github.com/softvisio-node/utils/commit/a880d83); 👬 zdm)
+
+Compare with the previous release: [v2.9.1](https://github.com/softvisio-node/utils/compare/v2.9.1...v2.9.2)
+
 ### v2.9.1 (2025-07-14)
 
 **Code refactoring:**
