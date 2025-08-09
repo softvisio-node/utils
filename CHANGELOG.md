@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.1 (2025-08-09)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: refactor phc api (● [49846cb](https://github.com/softvisio-node/utils/commit/49846cb), [303f3f5](https://github.com/softvisio-node/utils/commit/303f3f5); 👬 zdm)
+
+Compare with the previous release: [v2.10.0](https://github.com/softvisio-node/utils/compare/v2.10.0...v2.10.1)
+
 ### v2.10.0 (2025-08-09)
 
 **New features:**
