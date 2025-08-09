@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.0 (2025-08-09)
+
+**New features:**
+
+- \[MINOR] feat: add phc api (● [b74fe2b](https://github.com/softvisio-node/utils/commit/b74fe2b), [d257d4c](https://github.com/softvisio-node/utils/commit/d257d4c); 👬 zdm)
+
+Compare with the previous release: [v2.9.6](https://github.com/softvisio-node/utils/compare/v2.9.6...v2.10.0)
+
 ### v2.9.6 (2025-07-23)
 
 **Other changes:**
