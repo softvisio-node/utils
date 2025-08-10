@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.2 (2025-08-10)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: parse integer phc params (● [1df493c](https://github.com/softvisio-node/utils/commit/1df493c); 👬 zdm)
+
+Compare with the previous release: [v2.10.1](https://github.com/softvisio-node/utils/compare/v2.10.1...v2.10.2)
+
 ### v2.10.1 (2025-08-09)
 
 **Code refactoring:**
