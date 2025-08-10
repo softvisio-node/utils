@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.3 (2025-08-10)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix phc numbers parser (● [a4b93c6](https://github.com/softvisio-node/utils/commit/a4b93c6); 👬 zdm)
+
+Compare with the previous release: [v2.10.2](https://github.com/softvisio-node/utils/compare/v2.10.2...v2.10.3)
+
 ### v2.10.2 (2025-08-10)
 
 **Code refactoring:**
