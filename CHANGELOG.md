@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.4 (2025-08-10)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: add phc saltEncoding option (● [ec7b7e1](https://github.com/softvisio-node/utils/commit/ec7b7e1); 👬 zdm)
+
+Compare with the previous release: [v2.10.3](https://github.com/softvisio-node/utils/compare/v2.10.3...v2.10.4)
+
 ### v2.10.3 (2025-08-10)
 
 **Bug fixes:**
